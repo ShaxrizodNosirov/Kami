@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /teacher
+Disallow: /app
+Sitemap: https://YOUR-DOMAIN/sitemap.xml
